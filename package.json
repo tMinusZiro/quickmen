@@ -1,0 +1,22 @@
+{
+  "name": "quickmen",
+  "version": "1.0.0",
+  "description": "basic pc video game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tMinusZiro/quickmen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tMinusZiro/quickmen/issues"
+  },
+  "homepage": "https://github.com/tMinusZiro/quickmen#readme",
+  "dependencies": {
+    "kaboom": "^0.5.1"
+  }
+}
